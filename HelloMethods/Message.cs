@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if(lang.Equals("pl"))
+            {
+                return "Czesch!";
+            }
             else
             {
                 return "Hello World";
